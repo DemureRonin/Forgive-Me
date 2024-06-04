@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ee55b1b9852466c87840ee20790eb42, type: 3}
+  m_Name: IcoSphere
+  m_EditorClassIdentifier: 
+  _name: Icosphere
+  _description: An explosive mine that helps against groups of enemies, increasing
+    its radius and damage with each bounce of the Sphere (up to 3 bounces).
+  _buttonText: "\u25B6Embrace a cool looking geometrical shape. "
+  _prefab: {fileID: 7954837739848216668, guid: 040c883b106612f47ad517020d9a827c, type: 3}

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ee55b1b9852466c87840ee20790eb42, type: 3}
+  m_Name: Fish
+  m_EditorClassIdentifier: 
+  _name: Killer Fish From San Diego
+  _description: Killer fish, Killer fish from San Diego I don't know what I am but
+    I taste really good I'm Killer fish hello I'll be ur Killer fish for the evening
+    thank you.
+  _buttonText: "\u25B6Succumb to your impending doom."
+  _prefab: {fileID: 5025781497118129571, guid: 43b87de9a820b864bb5a5cc7d4f6d11b, type: 3}

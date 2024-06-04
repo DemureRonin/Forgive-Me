@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5557df1d45d84d63b1be0b1731156c8c, type: 3}
+  m_Name: SphereDef
+  m_EditorClassIdentifier: 
+  _roundSphere: {fileID: 7954837739848216668, guid: b1fbab3def9ce854fbc41d294d74074d, type: 3}
+  _icoSphere: {fileID: 7954837739848216668, guid: 2afc57e35d57cc74e960aed6cce3cd9d, type: 3}
+  _dodecoSphere: {fileID: 7954837739848216668, guid: d4040ea676a80f049b9c5ef848b500fa, type: 3}

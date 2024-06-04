@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 977523c84141e5d4e87ce773a4cb16aa, type: 3}
+  m_Name: Lore
+  m_EditorClassIdentifier: 
+  _sentences:
+  - This world has frozen in time as you can see.
+  - These marble statues once were humans in constant suffering.
+  - And with each dream they had they became harder and heavier...
+  - only to eventually turn into a cold marble.
+  - We call them "Martyrs".
+  - The big marble statues have been here for a long time.
+  - They can't move, so they are harmless.
+  - The smaller ones can attack if troubled though.
+  - Their agression for the pain that was caused to them...
+  - is the only thing they have left.
+  _textSpeed: 0.05
+  _sentenceDelay: 2
+  _startDelay: 0.2
+  _endDelay: 0.5

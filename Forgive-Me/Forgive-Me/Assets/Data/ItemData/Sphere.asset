@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ee55b1b9852466c87840ee20790eb42, type: 3}
+  m_Name: Sphere
+  m_EditorClassIdentifier: 
+  _name: Sphere
+  _description: A throwable object. Needs to be returned after each throw. Can be
+    bounced off of surfaces to deal high damage (up to 3 bounces). Each bounce increases
+    damage. Hits on return increase damage and the sphere preserves its ability to
+    interact with objects.
+  _buttonText: "\u25B6Question yourself how that is even a sphere"
+  _prefab: {fileID: 7954837739848216668, guid: 229c3f0ee192f7d42b6a0181cbb75c3b, type: 3}

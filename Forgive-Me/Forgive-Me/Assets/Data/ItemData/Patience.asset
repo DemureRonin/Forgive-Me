@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ee55b1b9852466c87840ee20790eb42, type: 3}
+  m_Name: Patience
+  m_EditorClassIdentifier: 
+  _name: Patience
+  _description: Contains the life essence of the sea. As calm and soothing as it
+    can get.
+  _buttonText: "\u25B6Acknowledge the seapunk."
+  _prefab: {fileID: 1603594484165664029, guid: adb8b0d3052521443a583d66bf6eea28, type: 3}

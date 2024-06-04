@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ee55b1b9852466c87840ee20790eb42, type: 3}
+  m_Name: FloppyDisk
+  m_EditorClassIdentifier: 
+  _name: Floppy Disk
+  _buttonText: "\u25B6Accept the past and move on."
+  _description: A floppy disk that stores a whopping 1.4mb of data. How cool is that!
+  _prefab: {fileID: 2610832876804806933, guid: 50a6c3c20ab34f94a83487ca0303aca3, type: 3}

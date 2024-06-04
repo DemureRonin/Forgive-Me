@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 977523c84141e5d4e87ce773a4cb16aa, type: 3}
+  m_Name: Killing
+  m_EditorClassIdentifier: 
+  _sentences:
+  - I hope you don't think it's a bad thing, right?
+  - Although you cold-bloodedly killed those statues knowing they are people...
+  - for me it's better to be dead than to be doomed to be a marble statue for eternity.
+  - Freeing them from this suffering doesn't make you a bad person.
+  - I like to beleive they are in a far better place now.
+  _textSpeed: 0.05
+  _sentenceDelay: 2
+  _startDelay: 0.2
+  _endDelay: 0.5

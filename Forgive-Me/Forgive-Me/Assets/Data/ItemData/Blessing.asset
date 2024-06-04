@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ee55b1b9852466c87840ee20790eb42, type: 3}
+  m_Name: Blessing
+  m_EditorClassIdentifier: 
+  _name: Sea Blessing
+  _description: 'The living embodiment of the sea. Omnipotent but merciful. '
+  _buttonText: "\u25B6Wonder if it will affect the ending (it will)"
+  _prefab: {fileID: 3912022614380342546, guid: c09cec1e59061e14d9c185a6e097d172, type: 3}

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 977523c84141e5d4e87ce773a4cb16aa, type: 3}
+  m_Name: DolphinTutorial
+  m_EditorClassIdentifier: 
+  _sentences:
+  - This is a beach.
+  - Such places are hard to find around here.
+  - Here lives a dolphin.
+  - You can give him items you happen to obtain during your dream.
+  - Be on the lookout for Floppy Disks especially.
+  - The dolphin can enhance your sphere with their help.
+  - Now go and say "Hi" to this wonderful creature!
+  - When you are done we can leave.
+  _textSpeed: 0.05
+  _sentenceDelay: 3
+  _startDelay: 0.2
